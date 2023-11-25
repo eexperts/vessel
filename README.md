@@ -1,10 +1,10 @@
-# Welcome to Tank :fire:
+# Welcome to Vessel :fire:
 ## Introduction
-**Tank** represents the space where the infrastructure of the project is located, while it gets updated on the need.
+**Vessel** represents the space where the infrastructure of the project is located, while it gets updated on the need.
 
-**Tank** uses [Laradock](https://github.com/laradock/laradock) as a submodule in order to keep its version up to version with what in the air.
+**Vessel** uses [Laradock](https://github.com/laradock/laradock) as a submodule in order to keep its version up to version with what in the air.
 
-**Tank** covers as well project building scripts, each project must have a build script that handle the infrastructure initiation.
+**Vessel** covers as well project building scripts, each project must have a build script that handle the infrastructure initiation.
 
 ## How to use
 ### Existing projects stack
