@@ -1,4 +1,4 @@
-# Welcome to Vessel :fire:
+# Welcome to Vessel ⛵:
 ## Introduction
 **Vessel** represents the space where the infrastructure of the project is located, while it gets updated on the need.
 
