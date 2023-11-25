@@ -8,7 +8,7 @@
 
 ## How to use
 ### Existing projects stack
-- [x] eCommercial
+#### eCommercial
     - It's sufficient to run the `build.sh` bash script to have eCommercials infrastructure up and running.
     - Add `127.0.0.1 ecommercial.local test.ecommercial.local` to your `hosts` file.
     - Give permission to **www** folder by running `chmod +x /var/www` inside the **workspace** container.
