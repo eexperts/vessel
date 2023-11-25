@@ -8,11 +8,11 @@
 
 ## How to use
 ### Existing projects stack
-- [x] Texa
-    - It's sufficient to run the `build.sh` bash script to have Texas infrastructure up and running.
-    - Add `127.0.0.1 texa.local` to your `hosts` file.
+- [x] eCommercial
+    - It's sufficient to run the `build.sh` bash script to have eCommercials infrastructure up and running.
+    - Add `127.0.0.1 ecommercial.local` to your `hosts` file.
     - Give permission to **www** folder by running `chmod +x /var/www` inside the **workspace** container.
-    - Give permission to **storage** folder by running `chmod -R 777 /var/www/texa/storage`
+    - Give permission to **storage** folder by running `chmod -R 777 /var/www/ecommercial/storage`
 
 # WIP :construction:
 # vessel
