@@ -12,6 +12,5 @@
 
 ### Existing projects stack
 
-#### eCommercial
-
-    - Visit [eCommercial repository](https://github.com/eexperts/ecommercial) and checkout the installation instruction.
+* #### eCommercial
+   * Visit [eCommercial repository](https://github.com/eexperts/ecommercial) and checkout the installation instruction.
